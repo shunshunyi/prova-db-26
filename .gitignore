@@ -1,0 +1,62 @@
+# ============================================================
+# Arquivos de bastidores — nao fazem parte da entrega tecnica
+# ============================================================
+
+# Documentos internos de planejamento e correcao (gerados durante o desenvolvimento)
+.trae/
+
+# Roteiro de fala para a banca (guia interno do grupo, nao e artefato tecnico)
+apresentacao.md
+
+# Checklist interno de aderencia (uso do grupo, nao pedido no enunciado)
+verificacao_final.md
+
+# Arquivo de especificacao da prova (e do professor, nao deve voltar para ele)
+specs.txt
+
+# ============================================================
+# Ferramentas e ambiente de desenvolvimento
+# ============================================================
+
+# Kiro / editores
+.kiro/
+
+# Trae uploads (arquivos internos da ferramenta de desenvolvimento)
+.uploads/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# ============================================================
+# Sistema operacional
+# ============================================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ============================================================
+# Arquivos temporarios e de runtime
+# ============================================================
+
+# Logs
+*.log
+
+# Backups de editores
+*.bak
+*.tmp
+*~
+
+# Dumps de banco gerados localmente
+*.dump
+*.sql.bak
